@@ -12,19 +12,21 @@ $ npm install -g phantomjs sitespeed.io
 
 Then add or use the text files inside the `sites` directory with the command :
 
-One site check :
+**One** site check :
 
 ````bash
 sitespeed.io --sites mysite.txt
 ````
 
-Many (for comparison) :
+**Multiple** (for comparison) :
 
 ````bash
 sitespeed.io --sites mysite1.txt --sites mysite2.txt --sites mysite3.txt
 ````
 
 More information about sitespeed configuration on the [doc](http://www.sitespeed.io/documentation/)
+
+Finally, add result path to index.html :smile:
 
 ## Deploy
 
