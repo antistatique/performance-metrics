@@ -23,3 +23,9 @@ Many (for comparison) :
 ````bash
 sitespeed.io --sites mysite1.txt --sites mysite2.txt --sites mysite3.txt
 ````
+
+More information about sitespeed configuration on the [doc](http://www.sitespeed.io/documentation/)
+
+## Deploy
+
+Just push the gh-pages
