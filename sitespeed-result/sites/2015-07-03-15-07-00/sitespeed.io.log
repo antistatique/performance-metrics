@@ -1,0 +1,199 @@
+2015-07-03T13:07:02.880Z - info: [sitespeed] OS: 'darwin 14.3.0', Node.js: 'v0.12.4', sitespeed.io: '3.5.0', PhantomJS: '1.9.8', java: '1.8.0_31', browsertime: '0.9.4'
+2015-07-03T13:07:02.885Z - info: [sitespeed] Analyze 2 sites
+2015-07-03T13:07:02.953Z - info: [sitespeed] Will crawl from start point http://staging.cardis.ch/fr with crawl depth 1
+2015-07-03T13:07:09.144Z - info: [sitespeed] Will analyze 39 pages
+2015-07-03T13:07:09.147Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr [phantomjs]
+2015-07-03T13:07:09.151Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/fixer-le-bon-prix-la-cle-du-succes [phantomjs]
+2015-07-03T13:07:09.153Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/achat-immobilier?type=land [phantomjs]
+2015-07-03T13:07:09.155Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/magazine-immobilier/2015/la-nouvelle-animation-video-cardis-sotheby-s-international-realty-comment-vendre-son-bien-immobilier [phantomjs]
+2015-07-03T13:07:09.157Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/achat-immobilier/appartement-montreux-6949 [phantomjs]
+2015-07-03T13:07:21.873Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/achat-immobilier?type=house [phantomjs]
+2015-07-03T13:07:23.463Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/le-reseau-sotheby-s-international-realty [phantomjs]
+2015-07-03T13:07:24.016Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/achat-immobilier [phantomjs]
+2015-07-03T13:07:28.832Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/magazine-immobilier/2015/reflets-et-tendances-le-marche-immobilier-a-nyon-en-2014 [phantomjs]
+2015-07-03T13:07:30.437Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/presentation [phantomjs]
+2015-07-03T13:07:35.675Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/nos-agences [phantomjs]
+2015-07-03T13:07:41.538Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/marketing-methodes-et-media [phantomjs]
+2015-07-03T13:07:41.796Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/lifestyles [phantomjs]
+2015-07-03T13:07:42.581Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/nos-competences [phantomjs]
+2015-07-03T13:07:44.400Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/presse [phantomjs]
+2015-07-03T13:07:46.566Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/achat-immobilier?type=appartment [phantomjs]
+2015-07-03T13:07:54.459Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/magazine-immobilier [phantomjs]
+2015-07-03T13:07:55.711Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/newsletter [phantomjs]
+2015-07-03T13:07:56.131Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/le-mandat-exclusif-cardis-immobilier [phantomjs]
+2015-07-03T13:07:57.163Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/contact [phantomjs]
+2015-07-03T13:08:05.486Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/carriere [phantomjs]
+2015-07-03T13:08:07.488Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/achat-immobilier/appartement-champery-6942 [phantomjs]
+2015-07-03T13:08:08.076Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/agences/lausanne [phantomjs]
+2015-07-03T13:08:09.013Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/nos-activites [phantomjs]
+2015-07-03T13:08:09.533Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/newsletter [phantomjs]
+2015-07-03T13:08:19.714Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/exception [phantomjs]
+2015-07-03T13:08:21.678Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/achat-immobilier-neuf [phantomjs]
+2015-07-03T13:08:22.002Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/achat-immobilier/appartement-montreux-6944 [phantomjs]
+2015-07-03T13:08:22.157Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/achat-immobilier?type=commercial [phantomjs]
+2015-07-03T13:08:24.363Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/magazine-immobilier/2015/jeu-concours-aimez-notre-page-facebook-et-gagnez-des-entrees-pour-le-montreux-jazz-festival [phantomjs]
+2015-07-03T13:08:38.325Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/exclusivement-pour-tous [phantomjs]
+2015-07-03T13:08:41.013Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/selection [phantomjs]
+2015-07-03T13:08:41.177Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/magazine-immobilier/2015/team-tilt-remporte-le-bol-d-or-mirabaud [phantomjs]
+2015-07-03T13:08:41.601Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/en [phantomjs]
+2015-07-03T13:08:42.086Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/achat-immobilier?type=building [phantomjs]
+2015-07-03T13:08:51.779Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/les-associes [phantomjs]
+2015-07-03T13:08:57.150Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/page/agence-immobiliere/vous-vendez-votre-bien-immobilier [phantomjs]
+2015-07-03T13:08:58.192Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/achat-immobilier/appartement-montreux-6965 [phantomjs]
+2015-07-03T13:09:00.577Z - info: [sitespeed] Running YSlow for http://staging.cardis.ch/fr/achat-immobilier?type=appartment%7Chouse [phantomjs]
+2015-07-03T13:09:23.590Z - info: [sitespeed] Done analyzing urls
+2015-07-03T13:09:24.207Z - info: [sitespeed] Wrote file assets.html
+2015-07-03T13:09:24.208Z - info: [sitespeed] Wrote file hotlist.html
+2015-07-03T13:09:24.208Z - info: [sitespeed] Wrote file errors.html
+2015-07-03T13:09:24.208Z - info: [sitespeed] Wrote file index.html
+2015-07-03T13:09:24.208Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-fixer-le-bon-prix-la-cle-du-succes.html
+2015-07-03T13:09:24.208Z - info: [sitespeed] Wrote file rules.html
+2015-07-03T13:09:24.209Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2015-07-03T13:09:24.209Z - info: [sitespeed] Wrote file pages.html
+2015-07-03T13:09:24.211Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-achat-immobilier-appartement-montreux-6949.html
+2015-07-03T13:09:24.211Z - info: [sitespeed] Wrote file staging.cardis.ch-fr.html
+2015-07-03T13:09:24.211Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-magazine-immobilier-2015-la-nouvelle-animation-video-cardis-sotheby-s-international-realty-comment-vendre-son-bien-immobilier.html
+2015-07-03T13:09:24.211Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-achat-immobilier4204d.html
+2015-07-03T13:09:24.212Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-le-reseau-sotheby-s-international-realty.html
+2015-07-03T13:09:24.212Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-magazine-immobilier-2015-reflets-et-tendances-le-marche-immobilier-a-nyon-en-2014.html
+2015-07-03T13:09:24.212Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-achat-immobilierfad81.html
+2015-07-03T13:09:24.212Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-presentation.html
+2015-07-03T13:09:24.212Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-achat-immobilier.html
+2015-07-03T13:09:24.212Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-marketing-methodes-et-media.html
+2015-07-03T13:09:24.212Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-lifestyles.html
+2015-07-03T13:09:24.213Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-achat-immobilier51be1.html
+2015-07-03T13:09:24.213Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-le-mandat-exclusif-cardis-immobilier.html
+2015-07-03T13:09:24.213Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-nos-competences.html
+2015-07-03T13:09:24.214Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-contact.html
+2015-07-03T13:09:24.214Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-nos-agences.html
+2015-07-03T13:09:24.215Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-presse.html
+2015-07-03T13:09:24.215Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-nos-activites.html
+2015-07-03T13:09:24.215Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-carriere.html
+2015-07-03T13:09:24.215Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-newsletter.html
+2015-07-03T13:09:24.216Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-agences-lausanne.html
+2015-07-03T13:09:24.216Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-achat-immobilier-appartement-champery-6942.html
+2015-07-03T13:09:24.216Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-newsletter.html
+2015-07-03T13:09:24.216Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-achat-immobilier-neuf.html
+2015-07-03T13:09:24.216Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-magazine-immobilier-2015-jeu-concours-aimez-notre-page-facebook-et-gagnez-des-entrees-pour-le-montreux-jazz-festival.html
+2015-07-03T13:09:24.216Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-achat-immobilier-appartement-montreux-6944.html
+2015-07-03T13:09:24.216Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-achat-immobilier9b72d.html
+2015-07-03T13:09:24.217Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-achat-immobilier77913.html
+2015-07-03T13:09:24.217Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-exception.html
+2015-07-03T13:09:24.217Z - info: [sitespeed] Wrote file staging.cardis.ch-en.html
+2015-07-03T13:09:24.217Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-magazine-immobilier.html
+2015-07-03T13:09:24.217Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-magazine-immobilier-2015-team-tilt-remporte-le-bol-d-or-mirabaud.html
+2015-07-03T13:09:24.217Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-exclusivement-pour-tous.html
+2015-07-03T13:09:24.217Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-les-associes.html
+2015-07-03T13:09:24.218Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-page-agence-immobiliere-vous-vendez-votre-bien-immobilier.html
+2015-07-03T13:09:24.219Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-selection.html
+2015-07-03T13:09:24.219Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-achat-immobilier-appartement-montreux-6965.html
+2015-07-03T13:09:24.219Z - info: [sitespeed] Wrote file staging.cardis.ch-fr-achat-immobilierf0f84.html
+2015-07-03T13:09:24.241Z - info: [sitespeed] Wrote results to /Users/Yago/Sites/Antistatique/performance-metrics/sitespeed-result/sites/2015-07-03-15-07-00/staging.cardis.ch
+2015-07-03T13:09:24.247Z - info: [sitespeed] The analyze took 2 minutes (141 seconds)
+2015-07-03T13:09:24.267Z - info: [sitespeed] Finished with site http://staging.cardis.ch/fr,http://staging.cardis.ch/fr/achat-immobilier,http://staging.cardis.ch/fr/achat-immobilier/maison-gorgier-2185,http://staging.cardis.ch/fr/contact/bien-a-vendre/4473,http://staging.cardis.ch/fr/courtier/jean.marie.legrottaglie,http://staging.cardis.ch/fr/achat-immobilier-neuf,http://staging.cardis.ch/fr/exception,http://staging.cardis.ch/fr/lifestyles,http://staging.cardis.ch/fr/montagne,http://staging.cardis.ch/fr/page/agence-immobiliere/presentation,http://staging.cardis.ch/fr/page/agence-immobiliere/yves-cherpillod,http://staging.cardis.ch/fr/page/agence-immobiliere/nos-agences,http://staging.cardis.ch/fr/agences/lausanne,http://staging.cardis.ch/fr/magazine-immobilier,http://staging.cardis.ch/fr/magazine-immobilier/2015/reflets-et-tendances-le-marche-immobilier-a-nyon-en-2014,http://staging.cardis.ch/fr/page/agence-immobiliere/nos-competences,http://staging.cardis.ch/fr/page/agence-immobiliere/contact
+2015-07-03T13:09:24.271Z - info: [sitespeed] Will crawl from start point http://www.cardis.ch/fr with crawl depth 1
+2015-07-03T13:09:30.372Z - info: [sitespeed] Will analyze 45 pages
+2015-07-03T13:09:30.373Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr [phantomjs]
+2015-07-03T13:09:30.377Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/magazine-immobilier/2015/team-tilt-remporte-le-bol-d-or-mirabaud [phantomjs]
+2015-07-03T13:09:30.379Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/carriere [phantomjs]
+2015-07-03T13:09:30.381Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/exception [phantomjs]
+2015-07-03T13:09:30.383Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/en [phantomjs]
+2015-07-03T13:09:43.470Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/marketing-methodes-et-media [phantomjs]
+2015-07-03T13:09:44.125Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/achat-immobilier?type=commercial [phantomjs]
+2015-07-03T13:09:44.425Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/agences/nyon [phantomjs]
+2015-07-03T13:09:44.683Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/le-mandat-exclusif-cardis-immobilier [phantomjs]
+2015-07-03T13:09:46.461Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/fixer-le-bon-prix-la-cle-du-succes [phantomjs]
+2015-07-03T13:09:55.234Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/nos-agences [phantomjs]
+2015-07-03T13:09:57.509Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/magazine-immobilier/2015/la-nouvelle-animation-video-cardis-sotheby-s-international-realty-comment-vendre-son-bien-immobilier [phantomjs]
+2015-07-03T13:09:57.745Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/agences/montreux [phantomjs]
+2015-07-03T13:09:59.266Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/magazine-immobilier/2015/jeu-concours-aimez-notre-page-facebook-et-gagnez-des-entrees-pour-le-montreux-jazz-festival [phantomjs]
+2015-07-03T13:10:01.771Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/achat-immobilier?type=house [phantomjs]
+2015-07-03T13:10:07.637Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/achat-immobilier/appartement-montreux-6965 [phantomjs]
+2015-07-03T13:10:11.811Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/newsletter [phantomjs]
+2015-07-03T13:10:12.887Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/presse [phantomjs]
+2015-07-03T13:10:13.221Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/presentation [phantomjs]
+2015-07-03T13:10:23.370Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/achat-immobilier/appartement-champery-6942 [phantomjs]
+2015-07-03T13:10:24.412Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/magazine-immobilier/2015/reflets-et-tendances-le-marche-immobilier-a-nyon-en-2014 [phantomjs]
+2015-07-03T13:10:24.554Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/achat-immobilier [phantomjs]
+2015-07-03T13:10:25.423Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/nos-competences [phantomjs]
+2015-07-03T13:10:26.067Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/achat-immobilier?type=building [phantomjs]
+2015-07-03T13:10:39.619Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/magazine-immobilier [phantomjs]
+2015-07-03T13:10:39.684Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/les-associes [phantomjs]
+2015-07-03T13:10:40.005Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/vous-vendez-votre-bien-immobilier [phantomjs]
+2015-07-03T13:10:44.560Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/achat-immobilier/appartement-montreux-6944 [phantomjs]
+2015-07-03T13:10:45.647Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/contact [phantomjs]
+2015-07-03T13:10:52.714Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/achat-immobilier/appartement-montreux-6949 [phantomjs]
+2015-07-03T13:10:52.719Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/agences/lausanne [phantomjs]
+2015-07-03T13:10:53.658Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/achat-immobilier?type=appartment%7Chouse [phantomjs]
+2015-07-03T13:10:58.965Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/achat-immobilier/maison-epalinges-6486 [phantomjs]
+2015-07-03T13:11:01.818Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/le-reseau-sotheby-s-international-realty [phantomjs]
+2015-07-03T13:11:07.064Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/agences/vevey [phantomjs]
+2015-07-03T13:11:10.230Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/nos-activites [phantomjs]
+2015-07-03T13:11:14.558Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/page/agence-immobiliere/exclusivement-pour-tous [phantomjs]
+2015-07-03T13:11:15.289Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/achat-immobilier?type=land [phantomjs]
+2015-07-03T13:11:16.140Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/lifestyles [phantomjs]
+2015-07-03T13:11:19.710Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/achat-immobilier?type=appartment [phantomjs]
+2015-07-03T13:11:22.596Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/selection [phantomjs]
+2015-07-03T13:11:29.595Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/en/agences/fribourg [phantomjs]
+2015-07-03T13:11:31.346Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/newsletter [phantomjs]
+2015-07-03T13:11:38.099Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/achat-immobilier-neuf [phantomjs]
+2015-07-03T13:11:42.239Z - info: [sitespeed] Running YSlow for http://www.cardis.ch/fr/agences/geneve [phantomjs]
+2015-07-03T13:12:05.680Z - info: [sitespeed] Done analyzing urls
+2015-07-03T13:12:06.299Z - info: [sitespeed] Wrote file assets.html
+2015-07-03T13:12:06.299Z - info: [sitespeed] Wrote file hotlist.html
+2015-07-03T13:12:06.299Z - info: [sitespeed] Wrote file errors.html
+2015-07-03T13:12:06.299Z - info: [sitespeed] Wrote file rules.html
+2015-07-03T13:12:06.299Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2015-07-03T13:12:06.299Z - info: [sitespeed] Wrote file www.cardis.ch-fr-magazine-immobilier-2015-team-tilt-remporte-le-bol-d-or-mirabaud.html
+2015-07-03T13:12:06.300Z - info: [sitespeed] Wrote file pages.html
+2015-07-03T13:12:06.300Z - info: [sitespeed] Wrote file index.html
+2015-07-03T13:12:06.302Z - info: [sitespeed] Wrote file www.cardis.ch-fr.html
+2015-07-03T13:12:06.303Z - info: [sitespeed] Wrote file www.cardis.ch-en.html
+2015-07-03T13:12:06.303Z - info: [sitespeed] Wrote file www.cardis.ch-fr-exception.html
+2015-07-03T13:12:06.303Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-carriere.html
+2015-07-03T13:12:06.303Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-le-mandat-exclusif-cardis-immobilier.html
+2015-07-03T13:12:06.303Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-marketing-methodes-et-media.html
+2015-07-03T13:12:06.303Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-fixer-le-bon-prix-la-cle-du-succes.html
+2015-07-03T13:12:06.304Z - info: [sitespeed] Wrote file www.cardis.ch-fr-agences-nyon.html
+2015-07-03T13:12:06.304Z - info: [sitespeed] Wrote file www.cardis.ch-fr-magazine-immobilier-2015-jeu-concours-aimez-notre-page-facebook-et-gagnez-des-entrees-pour-le-montreux-jazz-festival.html
+2015-07-03T13:12:06.304Z - info: [sitespeed] Wrote file www.cardis.ch-fr-agences-montreux.html
+2015-07-03T13:12:06.304Z - info: [sitespeed] Wrote file www.cardis.ch-fr-achat-immobilierba00e.html
+2015-07-03T13:12:06.304Z - info: [sitespeed] Wrote file www.cardis.ch-fr-magazine-immobilier-2015-la-nouvelle-animation-video-cardis-sotheby-s-international-realty-comment-vendre-son-bien-immobilier.html
+2015-07-03T13:12:06.304Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-nos-agences.html
+2015-07-03T13:12:06.304Z - info: [sitespeed] Wrote file www.cardis.ch-fr-achat-immobilier37ef6.html
+2015-07-03T13:12:06.305Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-presse.html
+2015-07-03T13:12:06.305Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-newsletter.html
+2015-07-03T13:12:06.305Z - info: [sitespeed] Wrote file www.cardis.ch-fr-achat-immobilier-appartement-montreux-6965.html
+2015-07-03T13:12:06.305Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-presentation.html
+2015-07-03T13:12:06.305Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-nos-competences.html
+2015-07-03T13:12:06.305Z - info: [sitespeed] Wrote file www.cardis.ch-fr-magazine-immobilier-2015-reflets-et-tendances-le-marche-immobilier-a-nyon-en-2014.html
+2015-07-03T13:12:06.305Z - info: [sitespeed] Wrote file www.cardis.ch-fr-achat-immobilier-appartement-champery-6942.html
+2015-07-03T13:12:06.305Z - info: [sitespeed] Wrote file www.cardis.ch-fr-achat-immobilier.html
+2015-07-03T13:12:06.305Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-les-associes.html
+2015-07-03T13:12:06.306Z - info: [sitespeed] Wrote file www.cardis.ch-fr-magazine-immobilier.html
+2015-07-03T13:12:06.306Z - info: [sitespeed] Wrote file www.cardis.ch-fr-achat-immobilier0a1e3.html
+2015-07-03T13:12:06.306Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-contact.html
+2015-07-03T13:12:06.306Z - info: [sitespeed] Wrote file www.cardis.ch-fr-achat-immobilier-appartement-montreux-6944.html
+2015-07-03T13:12:06.306Z - info: [sitespeed] Wrote file www.cardis.ch-fr-agences-lausanne.html
+2015-07-03T13:12:06.306Z - info: [sitespeed] Wrote file www.cardis.ch-fr-achat-immobilierd4a4a.html
+2015-07-03T13:12:06.306Z - info: [sitespeed] Wrote file www.cardis.ch-fr-achat-immobilier-appartement-montreux-6949.html
+2015-07-03T13:12:06.306Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-le-reseau-sotheby-s-international-realty.html
+2015-07-03T13:12:06.306Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-nos-activites.html
+2015-07-03T13:12:06.307Z - info: [sitespeed] Wrote file www.cardis.ch-fr-achat-immobilier7a11e.html
+2015-07-03T13:12:06.307Z - info: [sitespeed] Wrote file www.cardis.ch-fr-agences-vevey.html
+2015-07-03T13:12:06.307Z - info: [sitespeed] Wrote file www.cardis.ch-fr-achat-immobilier-maison-epalinges-6486.html
+2015-07-03T13:12:06.307Z - info: [sitespeed] Wrote file www.cardis.ch-fr-selection.html
+2015-07-03T13:12:06.307Z - info: [sitespeed] Wrote file www.cardis.ch-fr-achat-immobilier8714f.html
+2015-07-03T13:12:06.307Z - info: [sitespeed] Wrote file www.cardis.ch-en-agences-fribourg.html
+2015-07-03T13:12:06.307Z - info: [sitespeed] Wrote file www.cardis.ch-fr-lifestyles.html
+2015-07-03T13:12:06.307Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-vous-vendez-votre-bien-immobilier.html
+2015-07-03T13:12:06.307Z - info: [sitespeed] Wrote file www.cardis.ch-fr-page-agence-immobiliere-exclusivement-pour-tous.html
+2015-07-03T13:12:06.308Z - info: [sitespeed] Wrote file www.cardis.ch-fr-agences-geneve.html
+2015-07-03T13:12:06.308Z - info: [sitespeed] Wrote file www.cardis.ch-fr-newsletter.html
+2015-07-03T13:12:06.308Z - info: [sitespeed] Wrote file www.cardis.ch-fr-achat-immobilier-neuf.html
+2015-07-03T13:12:06.322Z - info: [sitespeed] Wrote results to /Users/Yago/Sites/Antistatique/performance-metrics/sitespeed-result/sites/2015-07-03-15-07-00/www.cardis.ch
+2015-07-03T13:12:06.324Z - info: [sitespeed] The analyze took 3 minutes (162 seconds)
+2015-07-03T13:12:06.324Z - info: [sitespeed] Finished with site http://www.cardis.ch/fr,http://www.cardis.ch/fr/achat-immobilier,http://www.cardis.ch/fr/achat-immobilier/maison-gorgier-2185,http://www.cardis.ch/fr/contact/bien-a-vendre/4473,http://www.cardis.ch/fr/courtier/jean.marie.legrottaglie,http://www.cardis.ch/fr/achat-immobilier-neuf,http://www.cardis.ch/fr/exception,http://www.cardis.ch/fr/lifestyles,http://www.cardis.ch/fr/montagne,http://www.cardis.ch/fr/page/agence-immobiliere/presentation,http://www.cardis.ch/fr/page/agence-immobiliere/yves-cherpillod,http://www.cardis.ch/fr/page/agence-immobiliere/nos-agences,http://www.cardis.ch/fr/agences/lausanne,http://www.cardis.ch/fr/magazine-immobilier,http://www.cardis.ch/fr/magazine-immobilier/2015/reflets-et-tendances-le-marche-immobilier-a-nyon-en-2014,http://www.cardis.ch/fr/page/agence-immobiliere/nos-competences,http://www.cardis.ch/fr/page/agence-immobiliere/contact
+2015-07-03T13:12:06.325Z - info: [sitespeed] The full site analyze took 5 minutes (306 seconds)
+2015-07-03T13:12:06.352Z - info: [sitespeed] Wrote file sites.html
+2015-07-03T13:12:06.365Z - info: [sitespeed] Wrote sites result to /Users/Yago/Sites/Antistatique/performance-metrics/sitespeed-result/sites/2015-07-03-15-07-00/www.cardis.ch
