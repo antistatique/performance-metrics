@@ -1,0 +1,143 @@
+2015-07-07T13:43:12.506Z - info: [sitespeed] OS: 'darwin 14.4.0', Node.js: 'v0.12.4', sitespeed.io: '3.5.0', PhantomJS: '1.9.8', java: '1.8.0_31', browsertime: '0.9.4'
+2015-07-07T13:43:12.512Z - info: [sitespeed] Analyze 1 sites
+2015-07-07T13:43:12.589Z - info: [sitespeed] Will crawl from start point http://www.diams.com/ with crawl depth 1
+2015-07-07T13:43:26.380Z - error: [sitespeed] Failed to download http://www.diams.com/ch_fr/diamant/choisir-son-diamant.html
+2015-07-07T13:43:26.382Z - info: [sitespeed] Will analyze 62 pages
+2015-07-07T13:43:26.387Z - info: [sitespeed] Running YSlow for http://www.diams.com/ [phantomjs]
+2015-07-07T13:43:26.392Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/bijouterie/italian-jewelry.html [phantomjs]
+2015-07-07T13:43:26.397Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/bijouterie/bracelets-riviere-de-diamants.html [phantomjs]
+2015-07-07T13:43:26.400Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/perle-noire-de-tahiti/boucles-d-oreilles-perle-noire-de-tahiti.html [phantomjs]
+2015-07-07T13:43:26.404Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/meteorite/bracelets-meteorite.html [phantomjs]
+2015-07-07T13:43:52.344Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/bijouterie.html [phantomjs]
+2015-07-07T13:43:53.384Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/bijouterie/promotions.html [phantomjs]
+2015-07-07T13:43:53.605Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/perle-noire-de-tahiti/colliers-perle-noire-tahiti.html [phantomjs]
+2015-07-07T13:43:55.937Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/une-bague-acier-meteorite-et-diamants.html [phantomjs]
+2015-07-07T13:43:57.684Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/boutons-de-manchette-ovales-en-meteorite.html [phantomjs]
+2015-07-07T13:44:35.834Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/bijouterie/bague-homme.html [phantomjs]
+2015-07-07T13:44:38.715Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/ [phantomjs]
+2015-07-07T13:44:41.860Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/garantie/ [phantomjs]
+2015-07-07T13:44:42.587Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/conditions/ [phantomjs]
+2015-07-07T13:44:44.085Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/meteorite/boucles-d-oreilles-meteorite.html [phantomjs]
+2015-07-07T13:45:04.383Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/event/ [phantomjs]
+2015-07-07T13:45:04.958Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/conference/ [phantomjs]
+2015-07-07T13:45:06.328Z - info: [sitespeed] Running YSlow for https://www.diams.com/ch_fr/customer/account/login/ [phantomjs]
+2015-07-07T13:45:08.398Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/diamant.html [phantomjs]
+2015-07-07T13:45:09.125Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/meteorite/objet-special.html [phantomjs]
+2015-07-07T13:46:37.219Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/about-us/ [phantomjs]
+2015-07-07T13:46:37.706Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/bijouterie/clous-d-oreille-diamant.html [phantomjs]
+2015-07-07T13:46:40.792Z - info: [sitespeed] Running YSlow for http://www.diams.com/fr/ [phantomjs]
+2015-07-07T13:46:47.023Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/jewelry_collections/ [phantomjs]
+2015-07-07T13:47:09.638Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/perle-noire-de-tahiti/pendentif-perle-noire-de-tahiti.html [phantomjs]
+2015-07-07T13:47:28.238Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/un-pendentif-etoile-en-meteorite-180.html [phantomjs]
+2015-07-07T13:47:56.349Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/meteorite/ [phantomjs]
+2015-07-07T13:47:56.481Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/catalogsearch/advanced/ [phantomjs]
+2015-07-07T13:47:56.678Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/perle-noire-de-tahiti/bague-perle-noire-de-tahiti.html [phantomjs]
+2015-07-07T13:48:46.769Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/press/ [phantomjs]
+2015-07-07T13:49:10.252Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/un-bracelet-tennis-riviere-de-saphirs-4-02ct.html [phantomjs]
+2015-07-07T13:49:13.260Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/perle-noire-de-tahiti.html [phantomjs]
+2015-07-07T13:49:14.635Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/mariage-bagues-de-fiancailles/demi-alliance-diamant.html [phantomjs]
+2015-07-07T13:49:15.588Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/glam-diams/ [phantomjs]
+2015-07-07T13:49:36.048Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/bijouterie/bracelets.html [phantomjs]
+2015-07-07T13:50:05.435Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/checkout/cart/ [phantomjs]
+2015-07-07T13:50:06.004Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/commandes-livraisons/ [phantomjs]
+2015-07-07T13:50:08.537Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/tahitian-pearls-classification/ [phantomjs]
+2015-07-07T13:50:15.467Z - info: [sitespeed] Running YSlow for http://www.diams.com/ae_en/ [phantomjs]
+2015-07-07T13:50:18.271Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/bijouterie/pendentif-solitaire-diamant.html [phantomjs]
+2015-07-07T13:50:35.967Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/partenaire/ [phantomjs]
+2015-07-07T13:50:38.494Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/confidentialites-retours/ [phantomjs]
+2015-07-07T13:50:49.175Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/un-pendentif-diamant-0-50ct-4-griffes.html [phantomjs]
+2015-07-07T13:50:57.176Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/meteorite/boutons-de-manchettte-meteorite.html [phantomjs]
+2015-07-07T13:50:58.437Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/catalog/seo_sitemap/category/ [phantomjs]
+2015-07-07T13:51:12.874Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/mariage-bagues-de-fiancailles/solitaire-diamant.html [phantomjs]
+2015-07-07T13:51:20.615Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/pendentif-perle-noire-de-tahiti-or-gris-365.html [phantomjs]
+2015-07-07T13:51:35.112Z - info: [sitespeed] Running YSlow for https://www.diams.com/ch_fr/customer/account/create/ [phantomjs]
+2015-07-07T13:51:40.276Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/contact/ [phantomjs]
+2015-07-07T13:51:41.801Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/bijouterie/bague-pierre-de-couleur.html [phantomjs]
+2015-07-07T13:51:55.694Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/meteorite/pendentif-meteorite.html [phantomjs]
+2015-07-07T13:51:57.213Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/expertise-consulting/ [phantomjs]
+2015-07-07T13:52:18.279Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/?___from_store=ch_fr [phantomjs]
+2015-07-07T13:52:57.449Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/mariage-bagues-de-fiancailles/alliance-diamant.html [phantomjs]
+2015-07-07T13:52:59.021Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/bijouterie/boucles-d-oreilles-pierre-de-couleur.html [phantomjs]
+2015-07-07T13:53:01.969Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/meteorite/colliers.html [phantomjs]
+2015-07-07T13:53:02.801Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/mariage-bagues-de-fiancailles.html [phantomjs]
+2015-07-07T13:53:23.108Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/meteorite/bague-meteorite.html [phantomjs]
+2015-07-07T13:53:42.629Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/diamond_4_c_s/ [phantomjs]
+2015-07-07T13:53:43.753Z - info: [sitespeed] Running YSlow for http://www.diams.com/mu_fr/ [phantomjs]
+2015-07-07T13:53:55.090Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/meteorite.html [phantomjs]
+2015-07-07T13:54:02.713Z - info: [sitespeed] Running YSlow for http://www.diams.com/ch_fr/diamond-investment/ [phantomjs]
+2015-07-07T13:54:57.632Z - info: [sitespeed] Done analyzing urls
+2015-07-07T13:54:58.524Z - info: [sitespeed] Wrote file assets.html
+2015-07-07T13:54:58.524Z - info: [sitespeed] Wrote file errors.html
+2015-07-07T13:54:58.524Z - info: [sitespeed] Wrote file hotlist.html
+2015-07-07T13:54:58.525Z - info: [sitespeed] Wrote file pages.html
+2015-07-07T13:54:58.525Z - info: [sitespeed] Wrote file rules.html
+2015-07-07T13:54:58.525Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-meteorite-bracelets-meteorite.html.html
+2015-07-07T13:54:58.525Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2015-07-07T13:54:58.526Z - info: [sitespeed] Wrote file index.html
+2015-07-07T13:54:58.528Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-bijouterie-bracelets-riviere-de-diamants.html.html
+2015-07-07T13:54:58.528Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-perle-noire-de-tahiti-boucles-d-oreilles-perle-noire-de-tahiti.html.html
+2015-07-07T13:54:58.529Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-bijouterie-italian-jewelry.html.html
+2015-07-07T13:54:58.529Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-une-bague-acier-meteorite-et-diamants.html.html
+2015-07-07T13:54:58.529Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-perle-noire-de-tahiti-colliers-perle-noire-tahiti.html.html
+2015-07-07T13:54:58.529Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-bijouterie-promotions.html.html
+2015-07-07T13:54:58.529Z - info: [sitespeed] Wrote file www.diams.com.html
+2015-07-07T13:54:58.529Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-bijouterie.html.html
+2015-07-07T13:54:58.529Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-boutons-de-manchette-ovales-en-meteorite.html.html
+2015-07-07T13:54:58.530Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-bijouterie-bague-homme.html.html
+2015-07-07T13:54:58.530Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-conditions-.html
+2015-07-07T13:54:58.530Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-garantie-.html
+2015-07-07T13:54:58.530Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-.html
+2015-07-07T13:54:58.530Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-meteorite-objet-special.html.html
+2015-07-07T13:54:58.531Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-meteorite-boucles-d-oreilles-meteorite.html.html
+2015-07-07T13:54:58.531Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-event-.html
+2015-07-07T13:54:58.531Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-conference-.html
+2015-07-07T13:54:58.531Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-diamant.html.html
+2015-07-07T13:54:58.531Z - info: [sitespeed] Wrote file s-www.diams.com-ch_fr-customer-account-login-.html
+2015-07-07T13:54:58.532Z - info: [sitespeed] Wrote file www.diams.com-fr-.html
+2015-07-07T13:54:58.532Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-about-us-.html
+2015-07-07T13:54:58.532Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-jewelry_collections-.html
+2015-07-07T13:54:58.532Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-bijouterie-clous-d-oreille-diamant.html.html
+2015-07-07T13:54:58.532Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-perle-noire-de-tahiti-pendentif-perle-noire-de-tahiti.html.html
+2015-07-07T13:54:58.532Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-perle-noire-de-tahiti-bague-perle-noire-de-tahiti.html.html
+2015-07-07T13:54:58.532Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-un-pendentif-etoile-en-meteorite-180.html.html
+2015-07-07T13:54:58.532Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-catalogsearch-advanced-.html
+2015-07-07T13:54:58.532Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-meteorite-.html
+2015-07-07T13:54:58.532Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-press-.html
+2015-07-07T13:54:58.533Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-un-bracelet-tennis-riviere-de-saphirs-4-02ct.html.html
+2015-07-07T13:54:58.533Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-perle-noire-de-tahiti.html.html
+2015-07-07T13:54:58.533Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-mariage-bagues-de-fiancailles-demi-alliance-diamant.html.html
+2015-07-07T13:54:58.533Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-glam-diams-.html
+2015-07-07T13:54:58.533Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-commandes-livraisons-.html
+2015-07-07T13:54:58.533Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-checkout-cart-.html
+2015-07-07T13:54:58.533Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-bijouterie-bracelets.html.html
+2015-07-07T13:54:58.533Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-tahitian-pearls-classification-.html
+2015-07-07T13:54:58.533Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-confidentialites-retours-.html
+2015-07-07T13:54:58.533Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-bijouterie-pendentif-solitaire-diamant.html.html
+2015-07-07T13:54:58.533Z - info: [sitespeed] Wrote file www.diams.com-ae_en-.html
+2015-07-07T13:54:58.533Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-partenaire-.html
+2015-07-07T13:54:58.534Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-un-pendentif-diamant-0-50ct-4-griffes.html.html
+2015-07-07T13:54:58.534Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-catalog-seo_sitemap-category-.html
+2015-07-07T13:54:58.534Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-meteorite-boutons-de-manchettte-meteorite.html.html
+2015-07-07T13:54:58.534Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-mariage-bagues-de-fiancailles-solitaire-diamant.html.html
+2015-07-07T13:54:58.534Z - info: [sitespeed] Wrote file s-www.diams.com-ch_fr-customer-account-create-.html
+2015-07-07T13:54:58.534Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-bijouterie-bague-pierre-de-couleur.html.html
+2015-07-07T13:54:58.534Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-meteorite-pendentif-meteorite.html.html
+2015-07-07T13:54:58.534Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-contact-.html
+2015-07-07T13:54:58.534Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-expertise-consulting-.html
+2015-07-07T13:54:58.534Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-pendentif-perle-noire-de-tahiti-or-gris-365.html.html
+2015-07-07T13:54:58.534Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-8989f.html
+2015-07-07T13:54:58.534Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-mariage-bagues-de-fiancailles-alliance-diamant.html.html
+2015-07-07T13:54:58.535Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-bijouterie-boucles-d-oreilles-pierre-de-couleur.html.html
+2015-07-07T13:54:58.535Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-meteorite-colliers.html.html
+2015-07-07T13:54:58.536Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-mariage-bagues-de-fiancailles.html.html
+2015-07-07T13:54:58.536Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-meteorite-bague-meteorite.html.html
+2015-07-07T13:54:58.537Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-diamond-investment-.html
+2015-07-07T13:54:58.537Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-meteorite.html.html
+2015-07-07T13:54:58.537Z - info: [sitespeed] Wrote file www.diams.com-ch_fr-diamond_4_c_s-.html
+2015-07-07T13:54:58.537Z - info: [sitespeed] Wrote file www.diams.com-mu_fr-.html
+2015-07-07T13:54:58.565Z - info: [sitespeed] Wrote results to /Users/Yago/Sites/Antistatique/performance-metrics/sitespeed-result/sites/2015-07-07-15-43-09/www.diams.com
+2015-07-07T13:54:58.568Z - info: [sitespeed] The analyze took 12 minutes (705 seconds)
+2015-07-07T13:54:58.569Z - info: [sitespeed] Finished with site http://www.diams.com/,http://www.diams.com/ch_fr/diamant.html,http://www.diams.com/ch_fr/solitaire-diamant-0-50ct-blanche-neige.html
+2015-07-07T13:54:58.570Z - info: [sitespeed] The full site analyze took 12 minutes (709 seconds)
+2015-07-07T13:54:58.590Z - info: [sitespeed] Wrote file sites.html
+2015-07-07T13:54:58.598Z - info: [sitespeed] Wrote sites result to /Users/Yago/Sites/Antistatique/performance-metrics/sitespeed-result/sites/2015-07-07-15-43-09/www.diams.com
