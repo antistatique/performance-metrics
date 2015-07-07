@@ -1,0 +1,31 @@
+2015-07-07T09:37:24.219Z - info: [sitespeed] OS: 'darwin 14.4.0', Node.js: 'v0.12.4', sitespeed.io: '3.5.0', PhantomJS: '1.9.8', java: '1.8.0_31', browsertime: '0.9.4'
+2015-07-07T09:37:24.224Z - info: [sitespeed] Analyze 1 sites
+2015-07-07T09:37:24.275Z - info: [sitespeed] Will analyze 3 pages
+2015-07-07T09:37:24.277Z - info: [sitespeed] Running YSlow for http://staging.diams.com/ [phantomjs]
+2015-07-07T09:37:24.280Z - info: [sitespeed] Running YSlow for http://staging.diams.com/ch_fr/diamant.html [phantomjs]
+2015-07-07T09:37:24.282Z - info: [sitespeed] Running YSlow for http://staging.diams.com/ch_fr/solitaire-diamant-0-50ct-blanche-neige.html [phantomjs]
+2015-07-07T09:37:30.563Z - error: [sitespeed] Yslow output for 'http://staging.diams.com/ch_fr/solitaire-diamant-0-50ct-blanche-neige.html' (stderr): libc++abi.dylib: Pure virtual function called!
+
+2015-07-07T09:37:30.568Z - error: [sitespeed] Error running yslow for url 'http://staging.diams.com/ch_fr/solitaire-diamant-0-50ct-blanche-neige.html': { [Error: Command failed: /usr/local/lib/node_modules/sitespeed.io/node_modules/phantomjs/lib/phantom/bin/phantomjs --ssl-protocol=any --ignore-ssl-errors=yes /usr/local/lib/node_modules/sitespeed.io/lib/headless/scripts/yslow-3.1.8-sitespeed.js -d -r sitespeed.io-desktop --ua Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36 -ba diams_staging:pCHc7mqUZGT8M --file /Users/Yago/Sites/Antistatique/performance-metrics/sitespeed-result/sites/2015-07-07-11-37-21/staging.diams.com/data/yslow/staging.diams.com-ch_fr-solitaire-diamant-0-50ct-blanche-neige.html-yslow.json -vp 1280x800 --waitScript  if (window.performance && window.performance.timing){ return ((window.performance.timing.loadEventEnd > 0) && ((new Date).getTime() - window.performance.timing.loadEventEnd > 2000 ));} else { return true;} http://staging.diams.com/ch_fr/solitaire-diamant-0-50ct-blanche-neige.html
+libc++abi.dylib: Pure virtual function called!
+]
+  killed: false,
+  code: null,
+  signal: 'SIGABRT',
+  cmd: '/usr/local/lib/node_modules/sitespeed.io/node_modules/phantomjs/lib/phantom/bin/phantomjs --ssl-protocol=any --ignore-ssl-errors=yes /usr/local/lib/node_modules/sitespeed.io/lib/headless/scripts/yslow-3.1.8-sitespeed.js -d -r sitespeed.io-desktop --ua Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36 -ba diams_staging:pCHc7mqUZGT8M --file /Users/Yago/Sites/Antistatique/performance-metrics/sitespeed-result/sites/2015-07-07-11-37-21/staging.diams.com/data/yslow/staging.diams.com-ch_fr-solitaire-diamant-0-50ct-blanche-neige.html-yslow.json -vp 1280x800 --waitScript  if (window.performance && window.performance.timing){ return ((window.performance.timing.loadEventEnd > 0) && ((new Date).getTime() - window.performance.timing.loadEventEnd > 2000 ));} else { return true;} http://staging.diams.com/ch_fr/solitaire-diamant-0-50ct-blanche-neige.html' }
+2015-07-07T09:37:34.764Z - info: [sitespeed] Done analyzing urls
+2015-07-07T09:37:35.116Z - info: [sitespeed] Wrote file assets.html
+2015-07-07T09:37:35.116Z - info: [sitespeed] Wrote file errors.html
+2015-07-07T09:37:35.116Z - info: [sitespeed] Wrote file rules.html
+2015-07-07T09:37:35.116Z - info: [sitespeed] Wrote file hotlist.html
+2015-07-07T09:37:35.116Z - info: [sitespeed] Wrote file staging.diams.com.html
+2015-07-07T09:37:35.116Z - info: [sitespeed] Wrote file pages.html
+2015-07-07T09:37:35.117Z - info: [sitespeed] Wrote file index.html
+2015-07-07T09:37:35.117Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2015-07-07T09:37:35.117Z - info: [sitespeed] Wrote file staging.diams.com-ch_fr-diamant.html.html
+2015-07-07T09:37:35.135Z - info: [sitespeed] Wrote results to /Users/Yago/Sites/Antistatique/performance-metrics/sitespeed-result/sites/2015-07-07-11-37-21/staging.diams.com
+2015-07-07T09:37:35.138Z - info: [sitespeed] The analyze took a few seconds (10 seconds)
+2015-07-07T09:37:35.139Z - info: [sitespeed] Finished with site http://staging.diams.com/,http://staging.diams.com/ch_fr/diamant.html,http://staging.diams.com/ch_fr/solitaire-diamant-0-50ct-blanche-neige.html
+2015-07-07T09:37:35.140Z - info: [sitespeed] The full site analyze took a few seconds (13 seconds)
+2015-07-07T09:37:35.159Z - info: [sitespeed] Wrote file sites.html
+2015-07-07T09:37:35.167Z - info: [sitespeed] Wrote sites result to /Users/Yago/Sites/Antistatique/performance-metrics/sitespeed-result/sites/2015-07-07-11-37-21/staging.diams.com
