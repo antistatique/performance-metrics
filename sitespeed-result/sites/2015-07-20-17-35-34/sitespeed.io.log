@@ -1,0 +1,84 @@
+2015-07-20T15:35:35.434Z - info: [sitespeed] OS: 'darwin 14.4.0', Node.js: 'v0.12.0', sitespeed.io: '3.7.1', PhantomJS: '1.9.8', java: '1.7.0_60', browsertime: '0.10.1'
+2015-07-20T15:35:35.441Z - info: [sitespeed] Analyze 5 sites
+2015-07-20T15:35:35.509Z - info: [sitespeed] Will crawl from start point http://www.lemonde.fr/proche-orient/article/2015/07/20/une-explosion-fait-de-nombreuses-victimes-en-turquie-pres-de-la-frontiere-syrienne_4690967_3218.html with crawl depth 1
+2015-07-20T15:35:45.464Z - info: [sitespeed] Will analyze 1 page
+2015-07-20T15:35:45.467Z - info: [sitespeed] Running YSlow for http://www.lemonde.fr/proche-orient/article/2015/07/20/une-explosion-fait-de-nombreuses-victimes-en-turquie-pres-de-la-frontiere-syrienne_4690967_3218.html [phantomjs]
+2015-07-20T15:37:13.130Z - info: [sitespeed] Done analyzing urls
+2015-07-20T15:37:13.701Z - info: [sitespeed] Wrote file errors.html
+2015-07-20T15:37:13.702Z - info: [sitespeed] Wrote file rules.html
+2015-07-20T15:37:13.702Z - info: [sitespeed] Wrote file hotlist.html
+2015-07-20T15:37:13.702Z - info: [sitespeed] Wrote file assets.html
+2015-07-20T15:37:13.703Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2015-07-20T15:37:13.703Z - info: [sitespeed] Wrote file pages.html
+2015-07-20T15:37:13.703Z - info: [sitespeed] Wrote file index.html
+2015-07-20T15:37:13.703Z - info: [sitespeed] Wrote file www.lemonde.fr-proche-orient-article-2015-07-20-une-explosion-fait-de-nombreuses-victimes-en-turquie-pres-de-la-frontiere-syrienne_4690967_3218.html.html
+2015-07-20T15:37:13.727Z - info: [sitespeed] Wrote results to /Users/gde/Documents/Antistatique/projets/performance-metrics/sitespeed-result/sites/2015-07-20-17-35-34/www.lemonde.fr
+2015-07-20T15:37:13.732Z - info: [sitespeed] The analyze took 2 minutes (98 seconds)
+2015-07-20T15:37:13.733Z - info: [sitespeed] Finished with site http://www.lemonde.fr/proche-orient/article/2015/07/20/une-explosion-fait-de-nombreuses-victimes-en-turquie-pres-de-la-frontiere-syrienne_4690967_3218.html
+2015-07-20T15:37:13.736Z - info: [sitespeed] Will crawl from start point http://www.theguardian.com/world/2015/jul/20/explosion-hits-turkish-town-near-syrian-border with crawl depth 1
+2015-07-20T15:37:22.914Z - info: [sitespeed] Will analyze 1 page
+2015-07-20T15:37:22.916Z - info: [sitespeed] Running YSlow for http://www.theguardian.com/world/2015/jul/20/explosion-hits-turkish-town-near-syrian-border [phantomjs]
+2015-07-20T15:37:45.982Z - info: [sitespeed] Done analyzing urls
+2015-07-20T15:37:46.262Z - info: [sitespeed] Wrote file errors.html
+2015-07-20T15:37:46.262Z - info: [sitespeed] Wrote file assets.html
+2015-07-20T15:37:46.262Z - info: [sitespeed] Wrote file pages.html
+2015-07-20T15:37:46.262Z - info: [sitespeed] Wrote file rules.html
+2015-07-20T15:37:46.262Z - info: [sitespeed] Wrote file index.html
+2015-07-20T15:37:46.263Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2015-07-20T15:37:46.263Z - info: [sitespeed] Wrote file hotlist.html
+2015-07-20T15:37:46.263Z - info: [sitespeed] Wrote file www.theguardian.com-world-2015-jul-20-explosion-hits-turkish-town-near-syrian-border.html
+2015-07-20T15:37:46.278Z - info: [sitespeed] Wrote results to /Users/gde/Documents/Antistatique/projets/performance-metrics/sitespeed-result/sites/2015-07-20-17-35-34/www.theguardian.com
+2015-07-20T15:37:46.280Z - info: [sitespeed] The analyze took a few seconds (32 seconds)
+2015-07-20T15:37:46.281Z - info: [sitespeed] Finished with site http://www.theguardian.com/world/2015/jul/20/explosion-hits-turkish-town-near-syrian-border
+2015-07-20T15:37:46.282Z - info: [sitespeed] Will crawl from start point http://www.bloomberg.com/news/articles/2015-07-19/the-42-billion-debt-trap-that-putin-has-three-years-to-escape with crawl depth 1
+2015-07-20T15:37:54.537Z - info: [sitespeed] Will analyze 1 page
+2015-07-20T15:37:54.538Z - info: [sitespeed] Running YSlow for http://www.bloomberg.com/news/articles/2015-07-19/the-42-billion-debt-trap-that-putin-has-three-years-to-escape [phantomjs]
+2015-07-20T15:38:11.288Z - info: [sitespeed] Done analyzing urls
+2015-07-20T15:38:11.449Z - info: [sitespeed] Wrote file assets.html
+2015-07-20T15:38:11.449Z - info: [sitespeed] Wrote file hotlist.html
+2015-07-20T15:38:11.449Z - info: [sitespeed] Wrote file errors.html
+2015-07-20T15:38:11.449Z - info: [sitespeed] Wrote file pages.html
+2015-07-20T15:38:11.450Z - info: [sitespeed] Wrote file rules.html
+2015-07-20T15:38:11.450Z - info: [sitespeed] Wrote file index.html
+2015-07-20T15:38:11.452Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2015-07-20T15:38:11.452Z - info: [sitespeed] Wrote file www.bloomberg.com-news-articles-2015-07-19-the-42-billion-debt-trap-that-putin-has-three-years-to-escape.html
+2015-07-20T15:38:11.474Z - info: [sitespeed] Wrote results to /Users/gde/Documents/Antistatique/projets/performance-metrics/sitespeed-result/sites/2015-07-20-17-35-34/www.bloomberg.com
+2015-07-20T15:38:11.476Z - info: [sitespeed] The analyze took a few seconds (25 seconds)
+2015-07-20T15:38:11.476Z - info: [sitespeed] Finished with site http://www.bloomberg.com/news/articles/2015-07-19/the-42-billion-debt-trap-that-putin-has-three-years-to-escape
+2015-07-20T15:38:11.479Z - info: [sitespeed] Will crawl from start point http://www.nytimes.com/2015/07/21/world/europe/suruc-turkey-syria-explosion.html with crawl depth 1
+2015-07-20T15:38:20.975Z - error: [sitespeed] Failed to download http://www.nytimes.com/membercenter
+2015-07-20T15:38:20.976Z - error: [sitespeed] Failed to download http://www.nytimes.com/hdleftnav
+2015-07-20T15:38:20.977Z - error: [sitespeed] Failed to download http://www.nytimes.com/giftleftnav
+2015-07-20T15:38:20.977Z - info: [sitespeed] Will analyze 1 page
+2015-07-20T15:38:20.978Z - info: [sitespeed] Running YSlow for http://www.nytimes.com/2015/07/21/world/europe/suruc-turkey-syria-explosion.html [phantomjs]
+2015-07-20T15:38:26.866Z - info: [sitespeed] Done analyzing urls
+2015-07-20T15:38:27.033Z - info: [sitespeed] Wrote file rules.html
+2015-07-20T15:38:27.033Z - info: [sitespeed] Wrote file errors.html
+2015-07-20T15:38:27.034Z - info: [sitespeed] Wrote file assets.html
+2015-07-20T15:38:27.034Z - info: [sitespeed] Wrote file pages.html
+2015-07-20T15:38:27.034Z - info: [sitespeed] Wrote file index.html
+2015-07-20T15:38:27.034Z - info: [sitespeed] Wrote file hotlist.html
+2015-07-20T15:38:27.034Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2015-07-20T15:38:27.035Z - info: [sitespeed] Wrote file www.nytimes.com-2015-07-21-world-europe-suruc-turkey-syria-explosion.html.html
+2015-07-20T15:38:27.051Z - info: [sitespeed] Wrote results to /Users/gde/Documents/Antistatique/projets/performance-metrics/sitespeed-result/sites/2015-07-20-17-35-34/www.nytimes.com
+2015-07-20T15:38:27.052Z - info: [sitespeed] The analyze took a few seconds (15 seconds)
+2015-07-20T15:38:27.052Z - info: [sitespeed] Finished with site http://www.nytimes.com/2015/07/21/world/europe/suruc-turkey-syria-explosion.html
+2015-07-20T15:38:27.056Z - info: [sitespeed] Will crawl from start point http://www.wired.com/2015/04/syrians-saved-ancient-seedbank-civil-war/ with crawl depth 1
+2015-07-20T15:38:33.199Z - error: [sitespeed] Failed to download http://www.wired.com/go/failsafe
+2015-07-20T15:38:33.200Z - info: [sitespeed] Will analyze 1 page
+2015-07-20T15:38:33.200Z - info: [sitespeed] Running YSlow for http://www.wired.com/2015/04/syrians-saved-ancient-seedbank-civil-war/ [phantomjs]
+2015-07-20T15:38:57.525Z - info: [sitespeed] Done analyzing urls
+2015-07-20T15:38:57.797Z - info: [sitespeed] Wrote file hotlist.html
+2015-07-20T15:38:57.798Z - info: [sitespeed] Wrote file assets.html
+2015-07-20T15:38:57.798Z - info: [sitespeed] Wrote file errors.html
+2015-07-20T15:38:57.798Z - info: [sitespeed] Wrote file rules.html
+2015-07-20T15:38:57.798Z - info: [sitespeed] Wrote file pages.html
+2015-07-20T15:38:57.798Z - info: [sitespeed] Wrote file index.html
+2015-07-20T15:38:57.799Z - info: [sitespeed] Wrote file www.wired.com-2015-04-syrians-saved-ancient-seedbank-civil-war-.html
+2015-07-20T15:38:57.799Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2015-07-20T15:38:57.822Z - info: [sitespeed] Wrote results to /Users/gde/Documents/Antistatique/projets/performance-metrics/sitespeed-result/sites/2015-07-20-17-35-34/www.wired.com
+2015-07-20T15:38:57.823Z - info: [sitespeed] The analyze took a few seconds (30 seconds)
+2015-07-20T15:38:57.823Z - info: [sitespeed] Finished with site http://www.wired.com/2015/04/syrians-saved-ancient-seedbank-civil-war/
+2015-07-20T15:38:57.824Z - info: [sitespeed] The full site analyze took 3 minutes (203 seconds)
+2015-07-20T15:38:57.871Z - info: [sitespeed] Wrote file sites.html
+2015-07-20T15:38:57.888Z - info: [sitespeed] Wrote sites result to /Users/gde/Documents/Antistatique/projets/performance-metrics/sitespeed-result/sites/2015-07-20-17-35-34/www.wired.com
