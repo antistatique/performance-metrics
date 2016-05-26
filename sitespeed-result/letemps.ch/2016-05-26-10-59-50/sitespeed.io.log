@@ -1,0 +1,197 @@
+2016-05-26T08:59:50.346Z - info: [sitespeed] OS: 'darwin 15.5.0', Node.js: 'v6.1.0', sitespeed.io: '3.11.5', PhantomJS: '2.1.1', java: '1.8.0_60', browsertime: '0.12.2'
+2016-05-26T08:59:50.376Z - info: [sitespeed] Will crawl from start point http://www.letemps.ch with crawl depth 1
+2016-05-26T08:59:56.855Z - error: [sitespeed] Failed to download http://www.letemps.ch/user/register
+2016-05-26T08:59:56.856Z - error: [sitespeed] Failed to download http://www.letemps.ch/node/991207
+2016-05-26T08:59:56.856Z - error: [sitespeed] Failed to download http://www.letemps.ch/node/991204
+2016-05-26T08:59:56.856Z - error: [sitespeed] Failed to download http://www.letemps.ch/abos
+2016-05-26T08:59:56.858Z - info: [sitespeed] Will analyze 90 pages
+2016-05-26T08:59:56.862Z - info: [sitespeed] Running YSlow for http://www.letemps.ch [phantomjs]
+2016-05-26T08:59:56.867Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/justice [phantomjs]
+2016-05-26T08:59:56.869Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/societe/2016/05/24/pleine-talent-nouvelle-generation-people-raconte-une-suisse [phantomjs]
+2016-05-26T08:59:56.871Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/economie/2016/05/25/eric-tveter-upc-tient-choc-face-swisscom [phantomjs]
+2016-05-26T08:59:56.874Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/economie/2016/05/26/portugal-marche-parmi-retraites-suisses [phantomjs]
+2016-05-26T09:00:09.565Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/lifestyle/2016/05/24/peter-marino-versus-robert-mapplethorpe [phantomjs]
+2016-05-26T09:00:13.396Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/economie/2016/05/19/primes-objectifs [phantomjs]
+2016-05-26T09:00:15.333Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/auteur/152 [phantomjs]
+2016-05-26T09:00:16.093Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/sante [phantomjs]
+2016-05-26T09:00:25.112Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/sciences/2016/05/24/pekin-mise-houle-marees [phantomjs]
+2016-05-26T09:00:25.636Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/en-continu [phantomjs]
+2016-05-26T09:00:25.765Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/opinions/2016/05/26/secret-bernard-maris-prendre-francais [phantomjs]
+2016-05-26T09:00:28.574Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/transports [phantomjs]
+2016-05-26T09:00:30.362Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/economie [phantomjs]
+2016-05-26T09:00:39.866Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/2016/05/25/affaire-bsi-retrait-discret-alfredo-gysi [phantomjs]
+2016-05-26T09:00:44.997Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/sciences/2016/05/25/un-contrat-record-un-telescope-normes [phantomjs]
+2016-05-26T09:00:46.896Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/2016/05/25/jean-francois-bayart-france-nourrit-une-schizophrenie-rapport-globalisation [phantomjs]
+2016-05-26T09:00:55.255Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/culture/2016/05/26/un-compositeur-attaque-orchestre-suisse-romande-justice [phantomjs]
+2016-05-26T09:01:03.574Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/societe [phantomjs]
+2016-05-26T09:01:11.115Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/sport/2016/05/24/quatorze-sportifs-russes-controles-positifs [phantomjs]
+2016-05-26T09:01:19.198Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/suisse [phantomjs]
+2016-05-26T09:01:19.214Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/carrieres [phantomjs]
+2016-05-26T09:01:31.324Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/france [phantomjs]
+2016-05-26T09:01:34.688Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/russie [phantomjs]
+2016-05-26T09:01:43.157Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/auteur/206 [phantomjs]
+2016-05-26T09:01:46.154Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/opinions/2016/05/25/fatalisme-face-crise-migrants [phantomjs]
+2016-05-26T09:01:49.605Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/2016/05/26/milliers-civils-pris-piege-falloujah [phantomjs]
+2016-05-26T09:01:55.176Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/partenariats [phantomjs]
+2016-05-26T09:02:02.805Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/suisse/2016/05/25/terreur-domestique-geneve-une-femme-enfants-racontent [phantomjs]
+2016-05-26T09:02:07.873Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/economie/2016/05/26/switcher-declaree-faillite [phantomjs]
+2016-05-26T09:02:21.941Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/sciences/2016/05/26/plus-500-000-deces-auraient-causes-crise-2008 [phantomjs]
+2016-05-26T09:02:22.817Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/economie/2016/05/20/reprendre-affaire-familiale-une-bonne-idee [phantomjs]
+2016-05-26T09:02:28.434Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/musiques [phantomjs]
+2016-05-26T09:02:35.211Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/monde/2016/05/25/risque-une-france-craque [phantomjs]
+2016-05-26T09:02:41.083Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/images/video/culture/livres-semaine-selection-eleonore-sulser-4 [phantomjs]
+2016-05-26T09:02:51.952Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/sciences/2016/05/25/homme-neandertal-s-aventurait-cavernes [phantomjs]
+2016-05-26T09:02:56.568Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/auteur/212 [phantomjs]
+2016-05-26T09:03:05.957Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/lifestyle/2016/05/24/brocante-marche-terroir-un-air-bal-musette-cully [phantomjs]
+2016-05-26T09:03:06.433Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/modes-vie [phantomjs]
+2016-05-26T09:03:11.455Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/lifestyle [phantomjs]
+2016-05-26T09:03:15.695Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/suisse/2016/05/25/moritz-leuenberger-gothard-c-triomphe-democratie-directe [phantomjs]
+2016-05-26T09:03:18.277Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/opinions/2016/05/25/mardi-noir-swisscom-enigmatique-irritant-drole [phantomjs]
+2016-05-26T09:03:21.466Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/design [phantomjs]
+2016-05-26T09:03:23.608Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/images/video/sciences/hug-s-equipent-voir-vaisseaux-morts [phantomjs]
+2016-05-26T09:03:26.200Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/sport [phantomjs]
+2016-05-26T09:03:33.702Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/search [phantomjs]
+2016-05-26T09:03:35.072Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/images/interactif [phantomjs]
+2016-05-26T09:03:35.567Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/images/video/culture/critique-fin-monde-xavier-dolan-cannes [phantomjs]
+2016-05-26T09:03:35.780Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/abonnes/services [phantomjs]
+2016-05-26T09:03:41.977Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/culture [phantomjs]
+2016-05-26T09:03:45.180Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/sciences [phantomjs]
+2016-05-26T09:03:48.715Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/un-jour-une-idee [phantomjs]
+2016-05-26T09:03:48.787Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/finance [phantomjs]
+2016-05-26T09:03:49.039Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/auteur/557 [phantomjs]
+2016-05-26T09:04:01.164Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/monde/2016/05/25/saint-denis-fosses-metissage [phantomjs]
+2016-05-26T09:04:01.376Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/lifestyle/2016/05/25/colchic-ouchy-faire-fleurir-vestiaires-printaniers [phantomjs]
+2016-05-26T09:04:01.613Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/eco-monde [phantomjs]
+2016-05-26T09:04:01.631Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/auteur/707 [phantomjs]
+2016-05-26T09:04:03.046Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/images/chappatte [phantomjs]
+2016-05-26T09:04:12.556Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/pdf [phantomjs]
+2016-05-26T09:04:12.568Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/auteur/671 [phantomjs]
+2016-05-26T09:04:18.009Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/economie/2016/05/19/abandonner-un-ingredient-essentiel-succes [phantomjs]
+2016-05-26T09:04:21.680Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/a-propos [phantomjs]
+2016-05-26T09:04:24.060Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/opinions/2016/05/26/eruption-raciste-contre-kinder-schokolade-tete-negre-allemagne [phantomjs]
+2016-05-26T09:04:25.147Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/auteur/86 [phantomjs]
+2016-05-26T09:04:28.784Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/opinions [phantomjs]
+2016-05-26T09:04:30.331Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/images/video [phantomjs]
+2016-05-26T09:04:30.474Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/environnement [phantomjs]
+2016-05-26T09:04:37.816Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/suisse/2016/05/25/bras-fer-financier-berne [phantomjs]
+2016-05-26T09:04:43.421Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/revues-presse [phantomjs]
+2016-05-26T09:04:46.861Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/culture/2016/05/25/ferveur-truls-mork-lausanne [phantomjs]
+2016-05-26T09:04:53.592Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/societe/2016/05/26/une-instance-europeenne-confirme-proprete-eaux-suisses [phantomjs]
+2016-05-26T09:04:55.263Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/football [phantomjs]
+2016-05-26T09:05:00.650Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/technologies [phantomjs]
+2016-05-26T09:05:07.747Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/images/photographies [phantomjs]
+2016-05-26T09:05:07.752Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/culture/2016/05/25/passion-schumann-theatre-kleber-meleau [phantomjs]
+2016-05-26T09:05:12.344Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/monde/2016/05/25/pacte-migratoire-turquie-menace-couler [phantomjs]
+2016-05-26T09:05:20.008Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/monde [phantomjs]
+2016-05-26T09:05:26.741Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/monde/2016/05/26/moscou-libere-jeanne-arc-ukrainienne [phantomjs]
+2016-05-26T09:05:36.143Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/economie/2016/05/25/une-application-romande-vise-faire-citoyen-un-agent-immobilier [phantomjs]
+2016-05-26T09:05:39.224Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/user/login?destination=/front [phantomjs]
+2016-05-26T09:05:40.207Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/opinions/2016/05/25/rbi-un-projet-nocif-destructeur [phantomjs]
+2016-05-26T09:05:46.868Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/suisse/2016/05/26/violences-apres-relegation-fc-zurich [phantomjs]
+2016-05-26T09:05:47.909Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/theme/archeologie [phantomjs]
+2016-05-26T09:05:52.206Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/contact [phantomjs]
+2016-05-26T09:05:58.637Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/sport/2016/05/26/david-goffin-antichambre-stars-tennis [phantomjs]
+2016-05-26T09:06:00.469Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/rss [phantomjs]
+2016-05-26T09:06:02.033Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/faq [phantomjs]
+2016-05-26T09:06:04.547Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/dossiers/rbi [phantomjs]
+2016-05-26T09:06:10.617Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/culture/2016/05/25/isabelle-huppert-joue-un-jeu-dangereux [phantomjs]
+2016-05-26T09:06:41.293Z - info: [sitespeed] Done analyzing urls
+2016-05-26T09:06:42.243Z - info: [sitespeed] Wrote file assets.html
+2016-05-26T09:06:42.243Z - info: [sitespeed] Wrote file pages.html
+2016-05-26T09:06:42.243Z - info: [sitespeed] Wrote file hotlist.html
+2016-05-26T09:06:42.243Z - info: [sitespeed] Wrote file rules.html
+2016-05-26T09:06:42.244Z - info: [sitespeed] Wrote file index.html
+2016-05-26T09:06:42.244Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2016-05-26T09:06:42.244Z - info: [sitespeed] Wrote file errors.html
+2016-05-26T09:06:42.244Z - info: [sitespeed] Wrote file www_letemps_ch-theme-justice.html
+2016-05-26T09:06:42.247Z - info: [sitespeed] Wrote file www_letemps_ch-economie-2016-05-25-eric-tveter-upc-tient-choc-face-swisscom.html
+2016-05-26T09:06:42.247Z - info: [sitespeed] Wrote file www_letemps_ch-auteur-152.html
+2016-05-26T09:06:42.248Z - info: [sitespeed] Wrote file www_letemps_ch-societe-2016-05-24-pleine-talent-nouvelle-generation-people-raconte-une-suisse.html
+2016-05-26T09:06:42.248Z - info: [sitespeed] Wrote file www_letemps_ch-economie-2016-05-26-portugal-marche-parmi-retraites-suisses.html
+2016-05-26T09:06:42.248Z - info: [sitespeed] Wrote file www_letemps_ch-lifestyle-2016-05-24-peter-marino-versus-robert-mapplethorpe.html
+2016-05-26T09:06:42.248Z - info: [sitespeed] Wrote file www_letemps_ch-economie-2016-05-19-primes-objectifs.html
+2016-05-26T09:06:42.248Z - info: [sitespeed] Wrote file www_letemps_ch-theme-sante.html
+2016-05-26T09:06:42.248Z - info: [sitespeed] Wrote file www_letemps_ch-theme-transports.html
+2016-05-26T09:06:42.248Z - info: [sitespeed] Wrote file www_letemps_ch-en-continu.html
+2016-05-26T09:06:42.248Z - info: [sitespeed] Wrote file www_letemps_ch-2016-05-25-affaire-bsi-retrait-discret-alfredo-gysi.html
+2016-05-26T09:06:42.249Z - info: [sitespeed] Wrote file www_letemps_ch-culture-2016-05-26-un-compositeur-attaque-orchestre-suisse-romande-justice.html
+2016-05-26T09:06:42.249Z - info: [sitespeed] Wrote file www_letemps_ch-2016-05-25-jean-francois-bayart-france-nourrit-une-schizophrenie-rapport-globalisation.html
+2016-05-26T09:06:42.249Z - info: [sitespeed] Wrote file www_letemps_ch-economie.html
+2016-05-26T09:06:42.249Z - info: [sitespeed] Wrote file www_letemps_ch-theme-carrieres.html
+2016-05-26T09:06:42.249Z - info: [sitespeed] Wrote file www_letemps_ch-sciences-2016-05-24-pekin-mise-houle-marees.html
+2016-05-26T09:06:42.249Z - info: [sitespeed] Wrote file www_letemps_ch-theme-france.html
+2016-05-26T09:06:42.249Z - info: [sitespeed] Wrote file www_letemps_ch-theme-russie.html
+2016-05-26T09:06:42.249Z - info: [sitespeed] Wrote file www_letemps_ch-opinions-2016-05-26-secret-bernard-maris-prendre-francais.html
+2016-05-26T09:06:42.249Z - info: [sitespeed] Wrote file www_letemps_ch-societe.html
+2016-05-26T09:06:42.249Z - info: [sitespeed] Wrote file www_letemps_ch-partenariats.html
+2016-05-26T09:06:42.250Z - info: [sitespeed] Wrote file www_letemps_ch-auteur-206.html
+2016-05-26T09:06:42.250Z - info: [sitespeed] Wrote file www_letemps_ch-2016-05-26-milliers-civils-pris-piege-falloujah.html
+2016-05-26T09:06:42.250Z - info: [sitespeed] Wrote file www_letemps_ch-economie-2016-05-26-switcher-declaree-faillite.html
+2016-05-26T09:06:42.250Z - info: [sitespeed] Wrote file www_letemps_ch.html
+2016-05-26T09:06:42.250Z - info: [sitespeed] Wrote file www_letemps_ch-opinions-2016-05-25-fatalisme-face-crise-migrants.html
+2016-05-26T09:06:42.250Z - info: [sitespeed] Wrote file www_letemps_ch-economie-2016-05-20-reprendre-affaire-familiale-une-bonne-idee.html
+2016-05-26T09:06:42.250Z - info: [sitespeed] Wrote file www_letemps_ch-sport-2016-05-24-quatorze-sportifs-russes-controles-positifs.html
+2016-05-26T09:06:42.251Z - info: [sitespeed] Wrote file www_letemps_ch-theme-musiques.html
+2016-05-26T09:06:42.251Z - info: [sitespeed] Wrote file www_letemps_ch-sciences-2016-05-25-un-contrat-record-un-telescope-normes.html
+2016-05-26T09:06:42.251Z - info: [sitespeed] Wrote file www_letemps_ch-images-video-culture-livres-semaine-selection-eleonore-sulser-4.html
+2016-05-26T09:06:42.251Z - info: [sitespeed] Wrote file www_letemps_ch-suisse.html
+2016-05-26T09:06:42.251Z - info: [sitespeed] Wrote file www_letemps_ch-auteur-212.html
+2016-05-26T09:06:42.251Z - info: [sitespeed] Wrote file www_letemps_ch-monde-2016-05-25-risque-une-france-craque.html
+2016-05-26T09:06:42.251Z - info: [sitespeed] Wrote file www_letemps_ch-theme-modes-vie.html
+2016-05-26T09:06:42.251Z - info: [sitespeed] Wrote file www_letemps_ch-suisse-2016-05-25-terreur-domestique-geneve-une-femme-enfants-racontent.html
+2016-05-26T09:06:42.252Z - info: [sitespeed] Wrote file www_letemps_ch-theme-design.html
+2016-05-26T09:06:42.252Z - info: [sitespeed] Wrote file www_letemps_ch-sciences-2016-05-26-plus-500-000-deces-auraient-causes-crise-2008.html
+2016-05-26T09:06:42.252Z - info: [sitespeed] Wrote file www_letemps_ch-lifestyle.html
+2016-05-26T09:06:42.252Z - info: [sitespeed] Wrote file www_letemps_ch-lifestyle-2016-05-24-brocante-marche-terroir-un-air-bal-musette-cully.html
+2016-05-26T09:06:42.252Z - info: [sitespeed] Wrote file www_letemps_ch-sciences-2016-05-25-homme-neandertal-s-aventurait-cavernes.html
+2016-05-26T09:06:42.252Z - info: [sitespeed] Wrote file www_letemps_ch-suisse-2016-05-25-moritz-leuenberger-gothard-c-triomphe-democratie-directe.html
+2016-05-26T09:06:42.252Z - info: [sitespeed] Wrote file www_letemps_ch-search.html
+2016-05-26T09:06:42.252Z - info: [sitespeed] Wrote file www_letemps_ch-abonnes-services.html
+2016-05-26T09:06:42.253Z - info: [sitespeed] Wrote file www_letemps_ch-images-video-sciences-hug-s-equipent-voir-vaisseaux-morts.html
+2016-05-26T09:06:42.253Z - info: [sitespeed] Wrote file www_letemps_ch-images-video-culture-critique-fin-monde-xavier-dolan-cannes.html
+2016-05-26T09:06:42.253Z - info: [sitespeed] Wrote file www_letemps_ch-opinions-2016-05-25-mardi-noir-swisscom-enigmatique-irritant-drole.html
+2016-05-26T09:06:42.253Z - info: [sitespeed] Wrote file www_letemps_ch-images-interactif.html
+2016-05-26T09:06:42.253Z - info: [sitespeed] Wrote file www_letemps_ch-sciences.html
+2016-05-26T09:06:42.253Z - info: [sitespeed] Wrote file www_letemps_ch-culture.html
+2016-05-26T09:06:42.253Z - info: [sitespeed] Wrote file www_letemps_ch-theme-finance.html
+2016-05-26T09:06:42.253Z - info: [sitespeed] Wrote file www_letemps_ch-theme-un-jour-une-idee.html
+2016-05-26T09:06:42.253Z - info: [sitespeed] Wrote file www_letemps_ch-auteur-557.html
+2016-05-26T09:06:42.254Z - info: [sitespeed] Wrote file www_letemps_ch-sport.html
+2016-05-26T09:06:42.254Z - info: [sitespeed] Wrote file www_letemps_ch-auteur-707.html
+2016-05-26T09:06:42.254Z - info: [sitespeed] Wrote file www_letemps_ch-auteur-671.html
+2016-05-26T09:06:42.254Z - info: [sitespeed] Wrote file www_letemps_ch-theme-eco-monde.html
+2016-05-26T09:06:42.254Z - info: [sitespeed] Wrote file www_letemps_ch-lifestyle-2016-05-25-colchic-ouchy-faire-fleurir-vestiaires-printaniers.html
+2016-05-26T09:06:42.255Z - info: [sitespeed] Wrote file www_letemps_ch-images-chappatte.html
+2016-05-26T09:06:42.255Z - info: [sitespeed] Wrote file www_letemps_ch-pdf.html
+2016-05-26T09:06:42.255Z - info: [sitespeed] Wrote file www_letemps_ch-a-propos.html
+2016-05-26T09:06:42.255Z - info: [sitespeed] Wrote file www_letemps_ch-monde-2016-05-25-saint-denis-fosses-metissage.html
+2016-05-26T09:06:42.255Z - info: [sitespeed] Wrote file www_letemps_ch-auteur-86.html
+2016-05-26T09:06:42.255Z - info: [sitespeed] Wrote file www_letemps_ch-suisse-2016-05-25-bras-fer-financier-berne.html
+2016-05-26T09:06:42.255Z - info: [sitespeed] Wrote file www_letemps_ch-images-video.html
+2016-05-26T09:06:42.256Z - info: [sitespeed] Wrote file www_letemps_ch-theme-environnement.html
+2016-05-26T09:06:42.256Z - info: [sitespeed] Wrote file www_letemps_ch-societe-2016-05-26-une-instance-europeenne-confirme-proprete-eaux-suisses.html
+2016-05-26T09:06:42.256Z - info: [sitespeed] Wrote file www_letemps_ch-culture-2016-05-25-ferveur-truls-mork-lausanne.html
+2016-05-26T09:06:42.256Z - info: [sitespeed] Wrote file www_letemps_ch-economie-2016-05-19-abandonner-un-ingredient-essentiel-succes.html
+2016-05-26T09:06:42.256Z - info: [sitespeed] Wrote file www_letemps_ch-theme-revues-presse.html
+2016-05-26T09:06:42.256Z - info: [sitespeed] Wrote file www_letemps_ch-images-photographies.html
+2016-05-26T09:06:42.256Z - info: [sitespeed] Wrote file www_letemps_ch-theme-technologies.html
+2016-05-26T09:06:42.256Z - info: [sitespeed] Wrote file www_letemps_ch-theme-football.html
+2016-05-26T09:06:42.256Z - info: [sitespeed] Wrote file www_letemps_ch-monde.html
+2016-05-26T09:06:42.256Z - info: [sitespeed] Wrote file www_letemps_ch-opinions.html
+2016-05-26T09:06:42.257Z - info: [sitespeed] Wrote file www_letemps_ch-monde-2016-05-26-moscou-libere-jeanne-arc-ukrainienne.html
+2016-05-26T09:06:42.257Z - info: [sitespeed] Wrote file www_letemps_ch-user-login87d83.html
+2016-05-26T09:06:42.257Z - info: [sitespeed] Wrote file www_letemps_ch-monde-2016-05-25-pacte-migratoire-turquie-menace-couler.html
+2016-05-26T09:06:42.257Z - info: [sitespeed] Wrote file www_letemps_ch-culture-2016-05-25-passion-schumann-theatre-kleber-meleau.html
+2016-05-26T09:06:42.257Z - info: [sitespeed] Wrote file www_letemps_ch-economie-2016-05-25-une-application-romande-vise-faire-citoyen-un-agent-immobilier.html
+2016-05-26T09:06:42.257Z - info: [sitespeed] Wrote file www_letemps_ch-opinions-2016-05-25-rbi-un-projet-nocif-destructeur.html
+2016-05-26T09:06:42.257Z - info: [sitespeed] Wrote file www_letemps_ch-contact.html
+2016-05-26T09:06:42.257Z - info: [sitespeed] Wrote file www_letemps_ch-suisse-2016-05-26-violences-apres-relegation-fc-zurich.html
+2016-05-26T09:06:42.257Z - info: [sitespeed] Wrote file www_letemps_ch-opinions-2016-05-26-eruption-raciste-contre-kinder-schokolade-tete-negre-allemagne.html
+2016-05-26T09:06:42.258Z - info: [sitespeed] Wrote file www_letemps_ch-rss.html
+2016-05-26T09:06:42.258Z - info: [sitespeed] Wrote file www_letemps_ch-dossiers-rbi.html
+2016-05-26T09:06:42.258Z - info: [sitespeed] Wrote file www_letemps_ch-theme-archeologie.html
+2016-05-26T09:06:42.258Z - info: [sitespeed] Wrote file www_letemps_ch-faq.html
+2016-05-26T09:06:42.258Z - info: [sitespeed] Wrote file www_letemps_ch-culture-2016-05-25-isabelle-huppert-joue-un-jeu-dangereux.html
+2016-05-26T09:06:42.258Z - info: [sitespeed] Wrote file www_letemps_ch-sport-2016-05-26-david-goffin-antichambre-stars-tennis.html
+2016-05-26T09:06:42.293Z - info: [sitespeed] Wrote results to /Users/yanngouffon/Sites/Antistatique/performance-metrics/sitespeed-result/www.letemps.ch/2016-05-26-10-59-50
+2016-05-26T09:06:42.300Z - info: [sitespeed] The analyze took 7 minutes (411 seconds)

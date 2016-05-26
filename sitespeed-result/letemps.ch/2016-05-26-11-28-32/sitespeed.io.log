@@ -1,0 +1,27 @@
+2016-05-26T09:28:32.752Z - info: [sitespeed] OS: 'darwin 15.5.0', Node.js: 'v6.1.0', sitespeed.io: '3.11.5', PhantomJS: '2.1.1', java: '1.8.0_60', browsertime: '0.12.2'
+2016-05-26T09:28:32.755Z - info: [sitespeed] Analyze 1 sites
+2016-05-26T09:28:32.792Z - info: [sitespeed] Will analyze 5 pages
+2016-05-26T09:28:32.794Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/monde/2016/05/26/scandale-mails-embarrasse-toujours-plus-hillary-clinton [phantomjs]
+2016-05-26T09:28:32.799Z - info: [sitespeed] Running YSlow for http://labs.letemps.ch/interactive/2016/tchernobyl-30-ans/ [phantomjs]
+2016-05-26T09:28:32.801Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/monde [phantomjs]
+2016-05-26T09:28:32.804Z - info: [sitespeed] Running YSlow for http://www.letemps.ch/ [phantomjs]
+2016-05-26T09:28:32.808Z - info: [sitespeed] Running YSlow for http://boutique.letemps.ch/index.php?dispatch=shop_matrix.show [phantomjs]
+2016-05-26T09:30:12.252Z - info: [sitespeed] Done analyzing urls
+2016-05-26T09:30:12.795Z - info: [sitespeed] Wrote file errors.html
+2016-05-26T09:30:12.796Z - info: [sitespeed] Wrote file assets.html
+2016-05-26T09:30:12.796Z - info: [sitespeed] Wrote file pages.html
+2016-05-26T09:30:12.796Z - info: [sitespeed] Wrote file hotlist.html
+2016-05-26T09:30:12.796Z - info: [sitespeed] Wrote file rules.html
+2016-05-26T09:30:12.796Z - info: [sitespeed] Wrote file index.html
+2016-05-26T09:30:12.796Z - info: [sitespeed] Wrote file boutique_letemps_ch-index.phpa282c.html
+2016-05-26T09:30:12.796Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2016-05-26T09:30:12.797Z - info: [sitespeed] Wrote file www_letemps_ch-monde-2016-05-26-scandale-mails-embarrasse-toujours-plus-hillary-clinton.html
+2016-05-26T09:30:12.797Z - info: [sitespeed] Wrote file www_letemps_ch.html
+2016-05-26T09:30:12.797Z - info: [sitespeed] Wrote file www_letemps_ch-monde.html
+2016-05-26T09:30:12.798Z - info: [sitespeed] Wrote file labs_letemps_ch-interactive-2016-tchernobyl-30-ans-.html
+2016-05-26T09:30:12.816Z - info: [sitespeed] Wrote results to /Users/yanngouffon/Sites/Antistatique/performance-metrics/sitespeed-result/sites/2016-05-26-11-28-32/www.letemps.ch
+2016-05-26T09:30:12.822Z - info: [sitespeed] The analyze took 2 minutes (100 seconds)
+2016-05-26T09:30:12.822Z - info: [sitespeed] Finished with site http://www.letemps.ch/monde/2016/05/26/scandale-mails-embarrasse-toujours-plus-hillary-clinton,http://labs.letemps.ch/interactive/2016/tchernobyl-30-ans/,http://www.letemps.ch/monde,http://www.letemps.ch/,http://boutique.letemps.ch/index.php?dispatch=shop_matrix.show
+2016-05-26T09:30:12.824Z - info: [sitespeed] The full site analyze took 2 minutes (100 seconds)
+2016-05-26T09:30:12.847Z - info: [sitespeed] Wrote file sites.html
+2016-05-26T09:30:12.862Z - info: [sitespeed] Wrote sites result to /Users/yanngouffon/Sites/Antistatique/performance-metrics/sitespeed-result/sites/2016-05-26-11-28-32/www.letemps.ch
